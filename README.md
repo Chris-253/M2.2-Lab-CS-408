@@ -1,8 +1,7 @@
-# web-dev-starter
+# M2.2 LAB
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This is the first lab. This lab is all about creating an about page with some information about ourselves.
+Below is how you use and operate the site accordingly. Since it's the first lab, it's pretty basic. 
 
 ## Getting Started
 
